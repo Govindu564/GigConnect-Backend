@@ -1,10 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "backend",
   "version": "1.0.0",
+=======
+  "name": "gig-connect",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> feature/auth
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Govindu564/GigConnect-Backend.git"
@@ -24,5 +31,18 @@
     "express": "^5.1.0",
     "express.js": "^1.0.0",
     "mongoose": "^8.19.1"
+=======
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.19.1",
+    "socket.io": "^4.8.1"
+>>>>>>> feature/auth
   }
 }

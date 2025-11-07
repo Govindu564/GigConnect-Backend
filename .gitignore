@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node modules
 node_modules/
 
@@ -29,3 +30,14 @@ coverage/
 .vscode/
 .idea/
 *.swp
+=======
+
+# Node
+node_modules/
+.env
+config/
+*.log
+.DS_Store
+.idea/
+.vscode/
+>>>>>>> feature/auth
